@@ -377,8 +377,8 @@ h3 {
 .card .role {
   font-size: 1.25rem;
   position: absolute;
-  right: 28px;
-  top: 25px;
+  right: 38px;
+  top: 35px;
 }
 
 .card li a {
@@ -436,7 +436,7 @@ h3 {
 }
 
 .card ul li {
-  line-height: 15%;
+  line-height: 200%;
   list-style-type: disc;
   margin-left: 20px;
 }
